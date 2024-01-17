@@ -17,3 +17,11 @@ ops-> deploy = operations
 ### MLOPS vs DEVops
 ML + DEV + OPS
 Mlops is not the traditional development
+
+file stuctute explanations
+experiments -> all ipynb files
+src --> all features
+src/components --> all project components 
+
+
+1) training pipeline-->  data-> data_validations+ features_engineering + model_training+ model_evaluation
